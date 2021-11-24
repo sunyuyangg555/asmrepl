@@ -2,6 +2,15 @@
 
 This is a REPL for assembly language.
 
+# Prerequisites
+1、install capstone
+```
+$ apt install libcapstone-dev
+```
+2、install ffi
+```
+$ apt install libffi-dev
+```
 ## Usage
 
 Install the gem:
